@@ -1,4 +1,4 @@
-### [Smart Coin Bank](https://github.com/ThomasQi3141/Smart_Coin_Bank)
+###Smart Coin Bank
 
 A program created with the Arduino platform to count the number and total value of coins in a smart coin bank (quarters, dimes, and nickels). Added three programmable buttons to clear the balance. 
 
