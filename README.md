@@ -8,4 +8,6 @@ A program created with the Arduino platform to count the number and total value 
 
 **Step 3:** Connect LCD display to ports 16 and 2.
 
+**Step 4:** Download Coin_Bank.ino and upload it to your Arduino through Arduino IDE.
+
 **Next Steps:** Modify as needed.
