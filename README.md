@@ -8,4 +8,4 @@ A program created with the Arduino platform to count the number and total value 
 
 **Step 3:** Connect LCD display to ports 16 and 2.
 
-**Next Steps: **Modify as needed.
+**Next Steps:** Modify as needed.
