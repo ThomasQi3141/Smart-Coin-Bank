@@ -10,4 +10,6 @@ A program created with the Arduino platform to count the number and total value 
 
 **Step 4:** Download Coin_Bank.ino and upload it to your Arduino through Arduino IDE.
 
+**Note:** Q, D, and N represent the count of Quarters, Dimes, and Nickels, respectively. 
+
 **Next Steps:** Modify as needed.
