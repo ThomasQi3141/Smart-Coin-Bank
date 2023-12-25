@@ -1,1 +1,11 @@
-### [Smart_Coin_Bank](https://github.com/ThomasQi3141/Smart_Coin_Bank)
+### [Smart Coin Bank](https://github.com/ThomasQi3141/Smart_Coin_Bank)
+
+A program created with the Arduino platform to count the number and total value of coins in a smart coin bank. Added three programmable buttons to clear the balance.
+
+**Step 1:** Install the [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C) library.
+
+**Step 2:** Configure buttons and sensors to their respective ports (Quarters to 13, Nickels to 12, Dimes to 11), (Clear_Quarters to 10, Clear_Dimes to 9, Clear_Nickels to 8). 
+
+**Step 3:** Connect LCD display to ports 16 and 2.
+
+**Next Steps: **Modify as needed.
