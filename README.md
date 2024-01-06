@@ -1,6 +1,8 @@
-### Smart Coin Bank
+<h2>Smart Coin Bank</h2>
 
 A program created with the Arduino platform to count the number and total value of coins in a smart coin bank (Quarters, Dimes, and Nickels). Added three programmable buttons to clear the balance. 
+
+### To Use:
 
 **Step 1:** Install the [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C) library.
 
